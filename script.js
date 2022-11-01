@@ -14,3 +14,7 @@ console.log({
      pid,
      input,
 });
+
+//h1.innerHTML = 'Sustitución del Título';
+//h1.innerHTML = 'Sustitución del Título <i> en italica';
+h1.innerText = 'Sustitución del Título <i> en italica';
